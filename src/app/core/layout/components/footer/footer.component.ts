@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
   ]
 })
 export class FooterComponent {
-  brandlogo='https://www.pngkey.com/png/detail/361-3617936_b2b-e-commerce-b2b-e-commerce-icon.png';
+  brandlogo='../../../../assets/icons/logo.png';
   year=new Date().getFullYear();
-  brand='Back 2 Buy';
+  brand='Click&Cart';
 }
